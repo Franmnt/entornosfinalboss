@@ -2,7 +2,7 @@ package Figuras;
 
 public class Circulo {
 
-    public double radio;
+    private double radio;
 
     public Circulo(double radio) {
         this.radio = radio;
