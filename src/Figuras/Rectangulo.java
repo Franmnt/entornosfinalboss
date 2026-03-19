@@ -1,8 +1,8 @@
 package Figuras;
 
 public class Rectangulo {
-    public double ancho;
-    public double alto;
+    private double ancho;
+    private double alto;
 
     public Rectangulo(double ancho, double alto) {
         this.ancho = ancho;

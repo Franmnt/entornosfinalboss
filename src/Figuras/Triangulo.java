@@ -2,7 +2,7 @@ package Figuras;
 
 public class Triangulo {
 
-    public double base;
+    private double base;
     public double altura;
     public double lado1;
     public double lado2;
